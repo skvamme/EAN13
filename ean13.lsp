@@ -1,5 +1,4 @@
-;Copyright 1990 1991 CAPCAD AB Sten Kvamme
-; http://www.capcad.se
+;Author skvamme
 ;Draw EAN13 type Barcode
 (defun C:EAN13 (/ tab xy n e pos land tp pt )
 
